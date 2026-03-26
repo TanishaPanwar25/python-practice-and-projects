@@ -1,0 +1,296 @@
+[
+    {
+        'name': 'Narendra Modi',
+        'follower_count': 95,
+        'description': 'Prime Minister of India',
+        'country': 'India'
+    },
+    {
+        'name': 'Virat Kohli',
+        'follower_count': 270,
+        'description': 'Cricketer',
+        'country': 'India'
+    },
+    {
+        'name': 'Priyanka Chopra Jonas',
+        'follower_count': 91,
+        'description': 'Actress and global icon',
+        'country': 'India'
+    },
+    {
+        'name': 'Alia Bhatt',
+        'follower_count': 90,
+        'description': 'Actress',
+        'country': 'India'
+    },
+    {
+        'name': 'Shraddha Kapoor',
+        'follower_count': 87,
+        'description': 'Actress and singer',
+        'country': 'India'
+    },
+    {
+        'name': 'Deepika Padukone',
+        'follower_count': 80,
+        'description': 'Actress and producer',
+        'country': 'India'
+    },
+    {
+        'name': 'Katrina Kaif',
+        'follower_count': 76,
+        'description': 'Actress',
+        'country': 'India'
+    },
+    {
+        'name': 'Neha Kakkar',
+        'follower_count': 74,
+        'description': 'Playback singer',
+        'country': 'India'
+    },
+    {
+        'name': 'Jacqueline Fernandez',
+        'follower_count': 72,
+        'description': 'Actress and model',
+        'country': 'India'
+    },
+    {
+        'name': 'Anushka Sharma',
+        'follower_count': 70,
+        'description': 'Actress and producer',
+        'country': 'India'
+    },
+    {
+        'name': 'Sachin Tendulkar',
+        'follower_count': 55,
+        'description': 'Former cricketer',
+        'country': 'India'
+    },
+    {
+        'name': 'MS Dhoni',
+        'follower_count': 48,
+        'description': 'Cricketer and former India captain',
+        'country': 'India'
+    },
+    {
+        'name': 'Rohit Sharma',
+        'follower_count': 47,
+        'description': 'Cricketer',
+        'country': 'India'
+    },
+    {
+        'name': 'KL Rahul',
+        'follower_count': 43,
+        'description': 'Cricketer',
+        'country': 'India'
+    },
+    {
+        'name': 'Akshay Kumar',
+        'follower_count': 61,
+        'description': 'Actor and producer',
+        'country': 'India'
+    },
+    {
+        'name': 'Salman Khan',
+        'follower_count': 67,
+        'description': 'Actor and film producer',
+        'country': 'India'
+    },
+    {
+        'name': 'Shah Rukh Khan',
+        'follower_count': 58,
+        'description': 'Actor and film producer',
+        'country': 'India'
+    },
+    {
+        'name': 'Ranveer Singh',
+        'follower_count': 47,
+        'description': 'Actor and entertainer',
+        'country': 'India'
+    },
+    {
+        'name': 'Kareena Kapoor Khan',
+        'follower_count': 53,
+        'description': 'Actress',
+        'country': 'India'
+    },
+    {
+        'name': 'Amitabh Bachchan',
+        'follower_count': 49,
+        'description': 'Actor and television host',
+        'country': 'India'
+    },
+    {
+        'name': 'Hrithik Roshan',
+        'follower_count': 51,
+        'description': 'Actor and dancer',
+        'country': 'India'
+    },
+    {
+        'name': 'Kiara Advani',
+        'follower_count': 52,
+        'description': 'Actress',
+        'country': 'India'
+    },
+    {
+        'name': 'Samantha Ruth Prabhu',
+        'follower_count': 33,
+        'description': 'Actress (Telugu and Tamil films)',
+        'country': 'India'
+    },
+    {
+        'name': 'Vicky Kaushal',
+        'follower_count': 34,
+        'description': 'Actor',
+        'country': 'India'
+    },
+    {
+        'name': 'Rashmika Mandanna',
+        'follower_count': 43,
+        'description': 'Actress (South Indian cinema)',
+        'country': 'India'
+    },
+    {
+        'name': 'P. V. Sindhu',
+        'follower_count': 6,
+        'description': 'Badminton player and Olympic medalist',
+        'country': 'India'
+    },
+    {
+        'name': 'Sania Mirza',
+        'follower_count': 12,
+        'description': 'Tennis player',
+        'country': 'India'
+    },
+    {
+        'name': 'Smriti Mandhana',
+        'follower_count': 11,
+        'description': 'Cricketer (Indian women’s team)',
+        'country': 'India'
+    },
+    {
+        'name': 'Aishwarya Rai Bachchan',
+        'follower_count': 15,
+        'description': 'Actress and former Miss World',
+        'country': 'India'
+    },
+    {
+        'name': 'K L Rahul',
+        'follower_count': 43,
+        'description': 'Cricketer',
+        'country': 'India'
+    },
+    {
+        'name': 'Abhishek Bachchan',
+        'follower_count': 11,
+        'description': 'Actor and producer',
+        'country': 'India'
+    },
+    {
+        'name': 'Yogi Adityanath',
+        'follower_count': 7,
+        'description': 'Chief Minister of Uttar Pradesh',
+        'country': 'India'
+    },
+    {
+        'name': 'Rahul Gandhi',
+        'follower_count': 12,
+        'description': 'Politician, Indian National Congress',
+        'country': 'India'
+    },
+    {
+        'name': 'Smriti Irani',
+        'follower_count': 7,
+        'description': 'Politician and former TV actress',
+        'country': 'India'
+    },
+    {
+        'name': 'Mamata Banerjee',
+        'follower_count': 5,
+        'description': 'Chief Minister of West Bengal',
+        'country': 'India'
+    },
+    {
+        'name': 'Arvind Kejriwal',
+        'follower_count': 8,
+        'description': 'Chief Minister of Delhi',
+        'country': 'India'
+    },
+    {
+        'name': 'Sourav Ganguly',
+        'follower_count': 9,
+        'description': 'Former cricketer and BCCI president',
+        'country': 'India'
+    },
+    {
+        'name': 'Hardik Pandya',
+        'follower_count': 29,
+        'description': 'Cricketer',
+        'country': 'India'
+    },
+    {
+        'name': 'Ravindra Jadeja',
+        'follower_count': 9,
+        'description': 'Cricketer',
+        'country': 'India'
+    },
+    {
+        'name': 'Karan Johar',
+        'follower_count': 18,
+        'description': 'Filmmaker and producer',
+        'country': 'India'
+    },
+    {
+        'name': 'Sunny Leone',
+        'follower_count': 58,
+        'description': 'Actress and entrepreneur',
+        'country': 'India'
+    },
+    {
+        'name': 'Disha Patani',
+        'follower_count': 59,
+        'description': 'Actress and model',
+        'country': 'India'
+    },
+    {
+        'name': 'Tata Group',
+        'follower_count': 5,
+        'description': 'Indian multinational conglomerate',
+        'country': 'India'
+    },
+    {
+        'name': 'Indian Cricket Team',
+        'follower_count': 37,
+        'description': 'Official cricket team of India',
+        'country': 'India'
+    },
+    {
+        'name': 'Allu Arjun',
+        'follower_count': 50,
+        'description': 'Actor (Telugu cinema)',
+        'country': 'India'
+    },
+    {
+        'name': 'Mahesh Babu',
+        'follower_count': 45,
+        'description': 'Actor (Telugu cinema)',
+        'country': 'India'
+    },
+    {
+        'name': 'Rajinikanth',
+        'follower_count': 14,
+        'description': 'Actor and cultural icon (Tamil cinema)',
+        'country': 'India'
+    },
+    {
+        'name': 'Sushmita Sen',
+        'follower_count': 9,
+        'description': 'Actress and former Miss Universe',
+        'country': 'India'
+    },
+    {
+        'name': 'Anupam Kher',
+        'follower_count': 7,
+        'description': 'Actor and motivational speaker',
+        'country': 'India'
+    }
+]
